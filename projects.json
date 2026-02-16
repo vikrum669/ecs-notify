@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ecs",
+    "name": "ECS",
+    "description": "",
+    "repositoryUrl": "https://github.com/vikrum669/ecs-notify",
+    "owner": "vikrum669",
+    "repo": "ecs-notify",
+    "type": "single-app",
+    "icon": "📦",
+    "environments": [
+      {
+        "name": "dev",
+        "displayName": "Development",
+        "color": "#10B981",
+        "autoTrack": true
+      },
+      {
+        "name": "qa",
+        "displayName": "QA",
+        "color": "#F59E0B",
+        "autoTrack": false
+      },
+      {
+        "name": "staging",
+        "displayName": "Staging",
+        "color": "#3B82F6",
+        "autoTrack": false
+      },
+      {
+        "name": "production",
+        "displayName": "Production",
+        "color": "#EF4444",
+        "autoTrack": false
+      }
+    ],
+    "workflowMappings": [],
+    "createdAt": "2026-02-16T21:48:55.210Z",
+    "updatedAt": "2026-02-16T21:48:55.211Z"
+  }
+]
